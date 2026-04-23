@@ -1,5 +1,8 @@
 package main.java.aula2;
 
+import java.util.Locale;
+import java.util.Scanner;
+
 /*
 Cálculo do IMC
 
@@ -9,9 +12,6 @@ Calcular o IMC usando a fórmula: IMC = peso / (altura²)
 Exibir o nome da pessoa e seu IMC
 Entrada: Nome (String), peso (double), altura (double) Saída: Mensagem com nome e IMC
  */
-
-import java.util.Locale;
-import java.util.Scanner;
 
 public class Desafio1CalculoImc {
 
